@@ -1,4 +1,4 @@
-#Multi Channel Granulator
+#Multi-Channel Granulator
 
 This project is a granulator which allocates each grain a channel in a buffer. Thus limiting the number of grains of the granulator to the number of audio channels.
 
